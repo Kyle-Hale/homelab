@@ -1,0 +1,11 @@
+# Ansible
+*.retry
+.ansible/
+ansible.cfg.local
+hosts.local
+group_vars/local/
+host_vars/local/
+vault_pass.txt
+.vault_pass
+*.vault
+ansible-vault-*
